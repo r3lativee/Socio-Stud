@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "342585935528",
+        "firebase_url": "https://socio-stud-default-rtdb.firebaseio.com",
+        "project_id": "socio-stud",
+        "storage_bucket": "socio-stud.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:342585935528:android:14417a91077bf7e39b249d",
+            "android_client_info": {
+                "package_name": "com.example.social_media"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "342585935528-i7u719vtvaclnmlho6holo9ua94fe9s0.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCSwQLMxQc5gBK6cgItRLb7t7Z2pMXX_9M"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "342585935528-i7u719vtvaclnmlho6holo9ua94fe9s0.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
