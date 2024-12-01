@@ -1,3 +1,5 @@
-# Things that I would need to figure out
+# Social media app
 
-- Different method of implementing an image in firebase.
+## Technologies Used:
+- Firebase
+- Flutter
